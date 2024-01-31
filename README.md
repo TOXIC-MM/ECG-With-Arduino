@@ -1,6 +1,10 @@
 # ECG-With-Arduino
 A Simple App For Monitoring Your Heartbeat Using an Arduino And ECG Sensor AD8232
 Use the table below to connect your sensor to Arduino correctly and configure it
+
+![Table](https://media.discordapp.net/attachments/1060138973856530432/1202382896820924466/Screenshot_2024-02-01_015247.png?ex=65cd4155&is=65bacc55&hm=954d28cef865fae180cb1ee44f3dd23094bf2c3113a1a4cf64bb2fee1f7b2882&=&format=webp&quality=lossless)
+
+
 Then upload the code to your Arduino and use chest plates to record your heartbeat data with [Better Serial Plotter App](https://github.com/nathandunk/BetterSerialPlotter/releases)
 
 Some Photos For Reference:
